@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndréCodeaJr
-- 👀 I’m interested in Web Development, acting & logistics
+- 👀 I’m interested in AI, Algorithms and Game Dev.
 - 🌱 I’m currently learning Python, Java & C++
 - 💞️ I’m looking to collaborate on anything that alligns with my goals
 - 📫 LinkedIn: Codea Jr.
