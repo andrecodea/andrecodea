@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python, JavaScript & C
 - 💞️ I’m looking to collaborate on anything that alligns with my goals
 - 📫 LinkedIn: André Codea Jr.
+- 🤖 replit @codeajr
 
 <!---
 CodeaJr/CodeaJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
