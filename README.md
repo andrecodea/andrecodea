@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AndréCodeaJr
-- 👀 I’m interested in AI, Algorithms and Game Dev.
-- 🌱 I’m currently learning Python, Java & C++
+- 👋 Hi, I’m André Codea
+- 👀 I’m interested in AI, Algorithms and Machine Learning.
+- 🌱 I’m currently learning Python, JavaScript & C
 - 💞️ I’m looking to collaborate on anything that alligns with my goals
-- 📫 LinkedIn: Codea Jr.
+- 📫 LinkedIn: André Codea Jr.
 
 <!---
 CodeaJr/CodeaJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
