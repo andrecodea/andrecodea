@@ -1,18 +1,32 @@
-### Hi, I'm André!
+# Hi, I'm André!
 
 I am from Brazil, and I am a Computer Science student. I really enjoy working with Data Structures, Algorithms and AI, and I'm planning on studying Cybersecurity and Production Engineering. I'm currently learning a lot of project management fundamentals, Python, and a lot of SQL as well. You can check my progress at https://leetcode.com/u/andrecodea/ and https://roadmap.sh/u/andrecodea.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrecodea)](https://github.com/anuraghazra/github-readme-stats)
+## 🌐 Socials:
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230570a8?style=for-the-badge&logo=LinkedIn&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrecodea%2F) ![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23f27b21?style=for-the-badge&logo=Stack%20Overflow&logoColor=white&logoSize=auto&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F25626566%2Fandr%25c3%25a9-codea) ![Codepen](https://img.shields.io/badge/Codepen-%23141516?style=for-the-badge&logo=Codepen&logoSize=auto&link=https%3A%2F%2Fcodepen.io%2Fandrecodea) ![Dev.to](https://img.shields.io/badge/Dev.to-%23141516?style=for-the-badge&logo=dev.to&logoSize=auto&link=https%3A%2F%2Fdev.to%2Fandrecodea) ![Codeforces](https://img.shields.io/badge/Codeforces-%23141516?style=for-the-badge&logo=Codeforces&logoSize=auto&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2Fandrecodea) ![Codesandbox](https://img.shields.io/badge/Code%20Sandbox-%23141516?style=for-the-badge&logo=Codesandbox&logoSize=auto&link=https%3A%2F%2Fcodesandbox.io%2Fu%2Fandrecodea) ![Hackerrank](https://img.shields.io/badge/Hacker%20Rank-%230b1018?style=for-the-badge&logo=Hackerrank&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.hackerrank.com%2Fprofile%2Fandrecodea) ![Leetcode](https://img.shields.io/badge/Leetcode-%23141516?style=for-the-badge&logo=Leetcode&logoSize=auto&link=https%3A%2F%2Fleetcode.com%2Fu%2Fandrecodea%2F) ![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-%230f172a?style=for-the-badge&logo=roadmap.sh&logoSize=auto&link=https%3A%2F%2Froadmap.sh%2Faccount%2Fupdate-profile)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h3 align="left"> Connect With Me:</h3>
-<p>
-<a href="https://www.leetcode.com/andrecodea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="andrecodea" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andrecodea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrecodea" height="30" width="40" /></a>
-<a href="https://codepen.io/andrecodea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="andrecodea" height="30" width="40" /></a>
-<a href="https://dev.to/andrecodea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="andrecodea" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/andré-codea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="andré-codea" height="30" width="40" /></a>
-<a href="https://codesandbox.com/andrecodea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="andrecodea" height="30" width="40" /></a>
-</p>
+## 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=andrecodea&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=andrecodea&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrecodea&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=andrecodea&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=andrecodea&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=andrecodea&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
