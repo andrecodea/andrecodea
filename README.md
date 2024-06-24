@@ -18,9 +18,9 @@
 
 ### 📊 GitHub Stats:
 
-![andrecodea's Stats](https://github-readme-stats.vercel.app/api?username=andrecodea&theme=omni&show_icons=true&hide_border=true&count_private=true)
-![andrecodea's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrecodea&theme=omni&hide_border=true)
-![andrecodea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrecodea&theme=omni&show_icons=true&hide_border=true&layout=compact)
+![andrecodea's Stats](https://github-readme-stats.vercel.app/api?username=andrecodea&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+![andrecodea's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrecodea&theme=monokai&hide_border=true)
+![andrecodea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrecodea&theme=monokai&show_icons=true&hide_border=true&layout=compact)
 
 
 
