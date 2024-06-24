@@ -18,9 +18,9 @@
 
 ## 📊 GitHub Stats:
 <div align="center" direction="column">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=andrecodea&theme=monokai&hide_border=false" height="215"/><br>
-<img src="https://github-readme-stats.vercel.app/api?username=andrecodea&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" height="235"/><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecodea&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="163"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=andrecodea&theme=monokai&hide_border=true" height="215"/><br>
+<img src="https://github-readme-stats.vercel.app/api?username=andrecodea&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" height="235"/><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecodea&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="163"/>
 </div>
 
 
