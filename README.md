@@ -4,7 +4,7 @@
 
 <h1 align="left">Hi, I'm André!</h1>
 
-<p align="left">I am from Brazil, and I am a Computer Science student. I really enjoy working with Data Structures, Algorithms and AI, and I'm planning on studying Cybersecurity and Production Engineering. I'm currently learning a lot of project management fundamentals, Python, and a lot of SQL as well. You can check my progress at https://leetcode.com/u/andrecodea/, https://www.hackerrank.com/profile/andrecodea and https://roadmap.sh/u/andrecodea.</p>
+<p align="left">I am from Brazil, and I am a Computer Science student. I really enjoy working with Data Science, Machine Learning and AI, and I'm planning on studying Cybersecurity and Mechanical Engineering. I'm currently studying Python, Java, DS and DA. You can check my progress at https://leetcode.com/u/andrecodea/, https://www.hackerrank.com/profile/andrecodea and https://roadmap.sh/u/andrecodea.</p>
 
 
 ## 🌐 Socials:
