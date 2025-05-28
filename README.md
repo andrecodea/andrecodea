@@ -4,7 +4,7 @@
 
 <h1 align="left">Hi, I'm André!</h1>
 
-<p align="left">I am from Brazil, and I am a Computer Science student. I really enjoy working with Data Science, Machine Learning and AI, and I'm planning on studying Mechanical Engineering as well. I'm currently studying Python, Java, DS and DE.
+<p align="left">I am a data enthusiast from Brazil with a passion for creating data-driven solutions. I specialize in Python and SQL, and I am constantly expanding my technical toolkit. Currently, I am pursuing a degree in Computer Science while actively participating in several bootcamps focused on modern technologies. My skill set includes developing with .NET and Spring Boot frameworks and creating AI agents with Python. I have hands-on experience with C#, Java, Python, SQL, AWS, Azure, and Docker, and several of their libraries and frameworks.
 
 
 ## 🌐 Socials:
