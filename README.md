@@ -4,7 +4,7 @@
 
 <h1 align="left">Hi, I'm André!</h1>
 
-<p align="left">I am a data enthusiast from Brazil with a passion for creating data-driven solutions. I specialize in Python and SQL, and I am constantly expanding my technical toolkit. Currently, I am pursuing a degree in Computer Science while actively participating in several bootcamps focused on modern technologies. My skill set includes developing with .NET and Spring Boot frameworks and creating AI agents with Python. I have hands-on experience with C#, Java, Python, SQL, AWS, Azure, and Docker, and several of their libraries and frameworks.
+<p align="left">I am a data enthusiast from Brazil with a passion for creating data-driven solutions. I specialize in Python and SQL, and I am constantly expanding my technical toolkit. Currently, I am pursuing a degree in Computer Science while actively participating in several bootcamps focused on modern technologies. My skill set includes developing with .NET and Spring Boot frameworks and creating AI agents with Python. I have hands-on experience with C#, Java, Python, SQL, AWS, Azure, and Docker, and several of their libraries and frameworks. My dream is to be considered a Data Engineer (Python & SQL), ML Specialist (Python), End to End Engineer (.NET & Springboot, AWS, Azure and Docker) and AI Engineer (Python).
 
 
 ## 🌐 Socials:
