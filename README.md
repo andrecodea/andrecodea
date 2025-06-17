@@ -2,10 +2,10 @@
 
 [🇧🇷 Versão em Português](README-pt.md)
 
-<p align="left">Computer Science student with a solid foundation in Python, SQL, Git, and data visualization. Passionate about data-driven solutions. My next learning steps include solidifying my knowledge in data engineering with Apache Airflow, Python, SQL, Snowflake, and machine learning with Scikit-Learn and TensorFlow. Additionally, learning Golang and htmx, given their market growth and applicability.</p>
+<p align="left">Computer Science student with a solid foundation in Python, SQL, Git, and data visualization. Passionate about data-driven solutions. My next learning steps include solidifying my knowledge in LangChain, Hugging Face and n8n so I can build AI agents and seamlessly integrate AI into projects. Also data engineering with Apache Airflow, Python, SQL, Snowflake, and machine learning with Scikit-Learn and TensorFlow. Additionally, learning Golang and htmx, given their market growth and applicability.</p>
 
 ## 🚀 What I'm Working On:
-- 🔭 Building data pipelines with **Apache Airflow**
+- 🔭 Creating **AI agents** with Python and n8n!
 - 🌱 Learning **Golang** for backend development
 - 👯 Looking to collaborate on **data science projects**
 - 💬 Ask me about **Python, SQL, and Data Visualization**
