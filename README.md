@@ -10,6 +10,7 @@
 - 👯 Looking to collaborate on **data science projects**
 - 💬 Ask me about **Python and AI**
 - ⚡ Fun fact: I love solving algorithmic challenges!
+- 📚 Teach me Java!
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230570a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andrecodea/) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23f27b21?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/25626566/andr%c3%a9-codea) [![Dev.to](https://img.shields.io/badge/Dev.to-%23141516?style=for-the-badge&logo=dev.to)](https://dev.to/andrecodea)
