@@ -24,11 +24,19 @@
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%235C7DA2.svg?style=for-the-badge&logo=seaborn&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-%23121212.svg?style=for-the-badge&logo=langchain&logoColor=white)
 
-## 📊 GitHub Stats:
-<div align="center" direction="column">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=andrecodea&theme=monokai&hide_border=true" height="215"/><br>
-<img src="https://github-readme-stats.vercel.app/api?username=andrecodea&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" height="235"/><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecodea&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="163"/>
+## 📊 GitHub Analytics:
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrecodea&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecodea&layout=compact&langs_count=8&theme=monokai&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrecodea&theme=monokai&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrecodea&theme=monokai&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
 </div>
 
 ## 🏆 GitHub Trophies:
