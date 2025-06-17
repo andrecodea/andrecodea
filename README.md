@@ -8,7 +8,7 @@
 - 🔭 Creating **AI agents** with Python and n8n!
 - 🌱 Learning **Golang** for backend development
 - 👯 Looking to collaborate on **data science projects**
-- 💬 Ask me about **Python, SQL, and Data Visualization**
+- 💬 Ask me about **Python and AI**
 - ⚡ Fun fact: I love solving algorithmic challenges!
 
 ## 🌐 Connect with me:
