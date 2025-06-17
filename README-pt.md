@@ -10,6 +10,7 @@
 - 👯 Procurando colaborar em **projetos de ciência de dados**
 - 💬 Me pergunte sobre **Python IA**!
 - ⚡ Curiosidade: Adoro resolver desafios algorítmicos!
+- 📚 Me ensine Java!
 
 ## 🌐 Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230570a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andrecodea/) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23f27b21?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/25626566/andr%c3%a9-codea) [![Dev.to](https://img.shields.io/badge/Dev.to-%23141516?style=for-the-badge&logo=dev.to)](https://dev.to/andrecodea)
