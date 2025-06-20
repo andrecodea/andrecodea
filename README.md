@@ -38,21 +38,18 @@
 ### Visualization:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%235C7DA2.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 
-## 📊 GitHub Analytics:
-<div style="display: flex; justify-content: space-between;">
-
-<img src="https://streak-stats.demolab.com/?user=andrecodea&theme=tokyonight&hide_border=true" 
-     alt="GitHub Streak" 
-     style="width: 100%; max-width: 100%;" />
-
-
-
-
-</div>
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- Container para Stats -->
+<!-- Streak Stats - Full Width no topo -->
+<div style="width: 100%; margin-bottom: 30px;">
+  <img src="https://streak-stats.demolab.com/?user=andrecodea&theme=tokyonight&hide_border=true" 
+       alt="GitHub Streak" 
+       style="width: 100%; max-width: 1200px; height: auto;" />
+</div>
+
+<!-- Stats e Languages - Side by Side -->
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; width: 100%; margin-bottom: 30px;">
   
   <!-- GitHub Stats -->
@@ -69,22 +66,23 @@
          style="width: 100%; height: auto;" />
   </div>
 
-  <!-- Activity Graph-->
-  <div>
+</div>
+
+<!-- Activity Graph - Full Width -->
+<div style="width: 100%; margin-bottom: 30px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrecodea&theme=tokyo-night&hide_border=true" 
        alt="Activity Graph" 
        style="width: 100%; max-width: 1400px; height: auto;" />
-  </div>
+</div>
 
 </div>
 
-## 🏆 GitHub Trophies:
-<!-- Activity Graph-->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=andrecodea&theme=tokyonight&no-frame=true&row=2&column=4" 
-     alt="GitHub Trophies" 
-     style="width: 100%; max-width: 100%;" />
+## 🏆 GitHub Trophies
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=andrecodea&theme=tokyonight&no-frame=true&row=2&column=4" 
+       alt="GitHub Trophies" 
+       style="width: 100%; max-width: 1200px; height: auto;" />
 </div>
 
 
