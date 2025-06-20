@@ -41,17 +41,48 @@
 ## 📊 Estatísticas do GitHub:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrecodea&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecodea&layout=compact&langs_count=8&theme=monokai&hide_border=true"/>
+
+<!-- Streak Stats - Full Width no topo -->
+<div style="width: 100%; margin-bottom: 30px;">
+  <img src="https://streak-stats.demolab.com/?user=andrecodea&theme=tokyonight&hide_border=true" 
+       alt="GitHub Streak" 
+       style="width: 100%; max-width: 1200px; height: auto;" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrecodea&theme=monokai&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
+<!-- Stats e Languages - Side by Side -->
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; width: 100%; margin-bottom: 30px;">
+  
+  <!-- GitHub Stats -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=andrecodea&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" 
+         alt="André's GitHub Stats" 
+         style="width: 100%; height: auto;" />
+  </div>
+  
+  <!-- Top Languages -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecodea&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+         alt="Top Languages" 
+         style="width: 100%; height: auto;" />
+  </div>
+
 </div>
 
-## 🏆 Troféus do GitHub:
+<!-- Activity Graph - Full Width -->
+<div style="width: 100%; margin-bottom: 30px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrecodea&theme=tokyo-night&hide_border=true" 
+       alt="Activity Graph" 
+       style="width: 100%; max-width: 1400px; height: auto;" />
+</div>
+
+</div>
+
+## 🏆 Troféus do GitHub
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=andrecodea&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=andrecodea&theme=tokyonight&no-frame=true&row=2&column=4" 
+       alt="GitHub Trophies" 
+       style="width: 100%; max-width: 1200px; height: auto;" />
 </div>
 
 ---
