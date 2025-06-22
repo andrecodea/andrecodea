@@ -42,13 +42,6 @@
 
 <div align="center">
 
-<!-- Streak Stats - Full Width no topo -->
-<div style="width: 100%; margin-bottom: 30px;">
-  <img src="https://streak-stats.demolab.com/?user=andrecodea&theme=tokyonight&hide_border=true" 
-       alt="GitHub Streak" 
-       style="width: 100%; max-width: 1200px; height: auto;" />
-</div>
-
 <!-- Stats e Languages - Side by Side -->
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; width: 100%; margin-bottom: 30px;">
   
