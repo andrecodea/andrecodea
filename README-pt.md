@@ -29,7 +29,7 @@
 
 ### 📊 Machine Learning & Ciência de Dados
 [![Breast Cancer Model](https://img.shields.io/badge/ML-Classificação%20Câncer%20de%20Mama-red?style=for-the-badge&logo=jupyter)](https://github.com/andrecodea/breast_cancer_predmodel)
-**Classificação de Câncer de Mama** - Modelo de ML para classificação de câncer de mama com análise de dados
+**Classificação de Câncer de Mama** - Modelo de ML para diagnóstico médico com análise de dados abrangente
 - 🏷️ `Machine Learning` `Ciência de Dados` `Python` `Saúde`
 
 [![Credit Score Model](https://img.shields.io/badge/ML-Previsão%20Score%20Crédito-orange?style=for-the-badge&logo=jupyter)](https://github.com/andrecodea/credit_score_pred_model)
