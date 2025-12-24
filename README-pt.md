@@ -12,6 +12,52 @@
 - ⚡ Curiosidade: Adoro resolver desafios algorítmicos!
 - 📚 Me ensine Java!
 
+## 🌟 Projetos em Destaque
+
+### 🤖 IA & Automação
+[![VoCAPI](https://img.shields.io/badge/VoCAPI-Analytics%20de%20Voz%20do%20Cliente-blue?style=for-the-badge&logo=python)](https://github.com/andrecodea/voc-api)
+**VoCAPI** - API agnóstica de análise de voz do cliente com chatbot RAG, embeddings e visualização de dados
+- 🏷️ `Python` `LLMOps` `RAG` `Embeddings` `Visualização de Dados`
+
+[![Nexus Financial Analyst](https://img.shields.io/badge/Nexus-Analista%20Financeiro-green?style=for-the-badge&logo=python)](https://github.com/andrecodea/nexus-financial-analyst)
+**Nexus Financial Analyst** - Sistema de análise financeira com IA
+- 🏷️ `Python` `IA` `Análise Financeira`
+
+[![CodeaBot Assistant](https://img.shields.io/badge/CodeaBot-Assistente%20IA-purple?style=for-the-badge&logo=openai)](https://github.com/andrecodea/codeabot-assistant)
+**CodeaBot Assistant** - Assistente chatbot local usando a API da OpenAI com interface Streamlit
+- 🏷️ `Python` `OpenAI API` `Streamlit` `Chatbot`
+
+### 📊 Machine Learning & Ciência de Dados
+[![Breast Cancer Model](https://img.shields.io/badge/ML-Classificação%20Câncer%20de%20Mama-red?style=for-the-badge&logo=jupyter)](https://github.com/andrecodea/breast_cancer_predmodel)
+**Classificação de Câncer de Mama** - Modelo de ML para diagnóstico médico com análise de dados abrangente
+- 🏷️ `Machine Learning` `Ciência de Dados` `Python` `Saúde`
+
+[![Credit Score Model](https://img.shields.io/badge/ML-Previsão%20Score%20Crédito-orange?style=for-the-badge&logo=jupyter)](https://github.com/andrecodea/credit_score_pred_model)
+**Previsão de Score de Crédito** - Modelo de previsão de score de crédito bancário usando IA
+- 🏷️ `Machine Learning` `Ciência de Dados` `IA Financeira`
+
+[![Apartment Prices SP](https://img.shields.io/badge/ML-Previsão%20Imóveis%20SP-yellow?style=for-the-badge&logo=jupyter)](https://github.com/andrecodea/apartment_prices_pred_model_SP)
+**Preços de Apartamentos em SP** - Modelo de previsão de valores de aluguel em São Paulo
+- 🏷️ `Machine Learning` `Análise de Dados` `Imóveis`
+
+### 🔧 Desenvolvimento Web & APIs
+[![Go REST API](https://img.shields.io/badge/Go-REST%20API%20CRUD-cyan?style=for-the-badge&logo=go)](https://github.com/andrecodea/go-rest-api-crud)
+**Go REST API CRUD** - API RESTful com implementação completa de CRUD em Golang
+- 🏷️ `Go` `REST API` `Backend`
+
+[![Sales Dashboard](https://img.shields.io/badge/Dashboard-Analytics%20de%20Vendas-brightgreen?style=for-the-badge&logo=streamlit)](https://github.com/andrecodea/sales_dashboard)
+**Dashboard de Vendas** - Dashboard interativo de análise de vendas construído com Streamlit
+- 🏷️ `Python` `Streamlit` `Visualização de Dados`
+
+### 📚 Projetos de Aprendizado
+[![OpenAI Course](https://img.shields.io/badge/OpenAI-Desafios%20do%20Curso-black?style=for-the-badge&logo=openai)](https://github.com/andrecodea/openai-course-challenges-asimov)
+**Desafios da API OpenAI** - Projetos e desafios do curso de OpenAI da Asimov Academy
+- 🏷️ `Python` `OpenAI API` `Chatbot`
+
+[![Go Developer Training](https://img.shields.io/badge/Go-Treinamento%20Developer-00ADD8?style=for-the-badge&logo=go)](https://github.com/andrecodea/go-developer-training-dio)
+**Treinamento Go Developer** - Desafios e projetos do curso de Go Developer da DIO
+- 🏷️ `Go` `Desenvolvimento Backend`
+
 ## 🌐 Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230570a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andrecodea/) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23f27b21?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/25626566/andr%c3%a9-codea) [![Dev.to](https://img.shields.io/badge/Dev.to-%23141516?style=for-the-badge&logo=dev.to)](https://dev.to/andrecodea)
 

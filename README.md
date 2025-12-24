@@ -12,6 +12,52 @@
 - ⚡ Fun fact: I love solving algorithmic challenges!
 - 📚 Teach me Java!
 
+## 🌟 Featured Projects
+
+### 🤖 AI & Automation
+[![VoCAPI](https://img.shields.io/badge/VoCAPI-Voice%20of%20Customer%20Analytics-blue?style=for-the-badge&logo=python)](https://github.com/andrecodea/voc-api)
+**VoCAPI** - An agentic voice of customer analytics API with RAG chatbot capabilities, embeddings, and data visualization
+- 🏷️ `Python` `LLMOps` `RAG` `Embeddings` `Data Visualization`
+
+[![Nexus Financial Analyst](https://img.shields.io/badge/Nexus-Financial%20Analyst-green?style=for-the-badge&logo=python)](https://github.com/andrecodea/nexus-financial-analyst)
+**Nexus Financial Analyst** - AI-powered financial analysis system
+- 🏷️ `Python` `AI` `Financial Analysis`
+
+[![CodeaBot Assistant](https://img.shields.io/badge/CodeaBot-AI%20Assistant-purple?style=for-the-badge&logo=openai)](https://github.com/andrecodea/codeabot-assistant)
+**CodeaBot Assistant** - Local chatbot assistant using OpenAI's API with Streamlit interface
+- 🏷️ `Python` `OpenAI API` `Streamlit` `Chatbot`
+
+### 📊 Machine Learning & Data Science
+[![Breast Cancer Model](https://img.shields.io/badge/ML-Breast%20Cancer%20Classification-red?style=for-the-badge&logo=jupyter)](https://github.com/andrecodea/breast_cancer_predmodel)
+**Breast Cancer Classification** - ML model for medical diagnosis with comprehensive data analysis
+- 🏷️ `Machine Learning` `Data Science` `Python` `Healthcare`
+
+[![Credit Score Model](https://img.shields.io/badge/ML-Credit%20Score%20Prediction-orange?style=for-the-badge&logo=jupyter)](https://github.com/andrecodea/credit_score_pred_model)
+**Credit Score Prediction** - Bank credit score prediction model using AI
+- 🏷️ `Machine Learning` `Data Science` `Financial AI`
+
+[![Apartment Prices SP](https://img.shields.io/badge/ML-Real%20Estate%20Prediction-yellow?style=for-the-badge&logo=jupyter)](https://github.com/andrecodea/apartment_prices_pred_model_SP)
+**São Paulo Apartment Prices** - Prediction model for apartment rent prices in São Paulo
+- 🏷️ `Machine Learning` `Data Analysis` `Real Estate`
+
+### 🔧 Web Development & APIs
+[![Go REST API](https://img.shields.io/badge/Go-REST%20API%20CRUD-cyan?style=for-the-badge&logo=go)](https://github.com/andrecodea/go-rest-api-crud)
+**Go REST API CRUD** - RESTful API with full CRUD implementation in Golang
+- 🏷️ `Go` `REST API` `Backend`
+
+[![Sales Dashboard](https://img.shields.io/badge/Dashboard-Sales%20Analytics-brightgreen?style=for-the-badge&logo=streamlit)](https://github.com/andrecodea/sales_dashboard)
+**Sales Dashboard** - Interactive sales analytics dashboard built with Streamlit
+- 🏷️ `Python` `Streamlit` `Data Visualization`
+
+### 📚 Learning Projects
+[![OpenAI Course](https://img.shields.io/badge/OpenAI-Course%20Challenges-black?style=for-the-badge&logo=openai)](https://github.com/andrecodea/openai-course-challenges-asimov)
+**OpenAI API Challenges** - Projects and challenges from Asimov Academy's OpenAI course
+- 🏷️ `Python` `OpenAI API` `Chatbot`
+
+[![Go Developer Training](https://img.shields.io/badge/Go-Developer%20Training-00ADD8?style=for-the-badge&logo=go)](https://github.com/andrecodea/go-developer-training-dio)
+**Go Developer Training** - Challenges and projects from DIO's Go Developer course
+- 🏷️ `Go` `Backend Development`
+
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230570a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andrecodea/) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23f27b21?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/25626566/andr%c3%a9-codea) [![Dev.to](https://img.shields.io/badge/Dev.to-%23141516?style=for-the-badge&logo=dev.to)](https://dev.to/andrecodea)
 
