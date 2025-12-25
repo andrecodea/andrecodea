@@ -87,7 +87,7 @@
 
 <!-- Activity Graph - Full Width -->
 <div style="width: 100%; margin-bottom: 30px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrecodea&theme=tokyo-night&hide_border=true" 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrecodea&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" 
        alt="Activity Graph" 
        style="width: 100%; max-width: 1400px; height: auto;" />
 </div>
