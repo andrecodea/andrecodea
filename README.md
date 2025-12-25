@@ -111,14 +111,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=andrecodea&style=for-the-badge&color=blue" alt="Profile views" />
 </div>
-
-<div align="center">
-  <h3>💡 "Data is the new oil, but insights are the refined fuel that drives innovation."</h3>
-</div>
-
-
-
-
-
-
-
