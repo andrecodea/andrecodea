@@ -27,6 +27,7 @@
 
 ### 📊 Machine Learning & Data Science
 [![Breast Cancer Model](https://img.shields.io/badge/ML-Breast%20Cancer%20Classification-red?style=for-the-badge&logo=jupyter)](https://github.com/andrecodea/breast_cancer_predmodel)
+
 **Breast Cancer Classification** - ML model for medical diagnosis with comprehensive data analysis
 - 🏷️ `Machine Learning` `Data Science` `Python` `Healthcare`
 
