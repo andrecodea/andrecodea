@@ -1,30 +1,42 @@
-<h1 align="left">Hi, I'm André!</h1>
+<h1 align="left">Hi, I'm André! 👋</h1>
 
 [🇧🇷 Versão em Português](README-pt.md)
 
-<p align="left">Computer Science student with a solid foundation in Python, SQL, Git, and data visualization. Passionate about data-driven solutions. My next learning steps include solidifying my knowledge in LangChain, Hugging Face and n8n so I can build AI agents and seamlessly integrate AI into projects. Also data engineering with Apache Airflow, Python, SQL, Snowflake, and machine learning with Scikit-Learn and TensorFlow. Additionally, learning Golang and htmx, given their market growth and applicability.</p>
+<p align="left">
+  Computer Science student and <strong>AI Engineer</strong> specialized in LLMOps and Automations. 
+  Passionate about building autonomous agents and data-driven solutions.
+</p>
+
+<p align="left">
+  Currently, I am working as an <strong>AI Implementation Lead</strong>, architecting cognitive systems. My next learning steps include mastering <strong>Apache Airflow</strong> and <strong>Snowflake</strong> for Data Engineering, and deepening my backend skills with <strong>Golang</strong>.
+</p>
 
 ## 🚀 What I'm Working On:
-- 🔭 Creating **AI agents** with Python and n8n!
-- 🌱 Learning **Golang** for backend development
-- 👯 Looking to collaborate on **data science projects**
-- 💬 Ask me about **Python and AI**
+- 🔭 Architecting **Cognitive Operating Systems** (LLMOps)
+- 🤖 Creating **AI agents** with Python, LangChain, and n8n
+- 🌱 Learning **Golang** for high-performance backend development
+- 👯 Looking to collaborate on **Open Source AI projects**
+- 💬 Ask me about **LLMs, Python, and AI Agents**
 - ⚡ Fun fact: I love solving algorithmic challenges!
-- 📚 Teach me Java!
 
 ## 🌟 Featured Projects
 
-### 🤖 AI APIs
+### 🧠 AI Architecture & LLMOps
+[![MIRA CognitiveOS](https://img.shields.io/badge/MIRA-CognitiveOS-purple?style=for-the-badge&logo=openai)](LINK_DO_SEU_REPO_AQUI)
+
+**MIRA CognitiveOS** - A cognitive operating system architecture designed for autonomous interactions and complex task orchestration.
+- 🏷️ `LLMOps` `System Architecture` `n8n` `AI Agents`
+
+### 🤖 AI Agents & APIs
 [![Nexus Financial Analyst](https://img.shields.io/badge/Nexus-Financial%20Analyst-green?style=for-the-badge&logo=python)](https://github.com/andrecodea/nexus-financial-analyst)
 
-**Nexus Financial Analyst** - AI-powered financial analysis system
-- 🏷️ `Python` `FastAPI` `LangChain` `GenUI` `GenAI` `Financial Analysis` 
-
+**Nexus Financial Analyst** - AI-powered financial analysis system utilizing GenUI concepts.
+- 🏷️ `Python` `FastAPI` `LangChain` `GenAI` `Financial Analysis`
 
 ### 📊 Machine Learning & Data Science
 [![Breast Cancer Model](https://img.shields.io/badge/ML-Breast%20Cancer%20Classification-red?style=for-the-badge&logo=jupyter)](https://github.com/andrecodea/breast_cancer_predmodel)
 
-**Breast Cancer Classification** - ML model for medical diagnosis with comprehensive data analysis
+**Breast Cancer Classification** - ML model for medical diagnosis with comprehensive data analysis.
 - 🏷️ `Machine Learning` `Data Science` `Python` `Healthcare`
 
 ## 🌐 Connect with me:
@@ -59,9 +71,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrecodea&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=andrecodea&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Activity Graph - Full Width -->
 <div style="width: 100%; margin-bottom: 30px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrecodea&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" 
        alt="Activity Graph" 
