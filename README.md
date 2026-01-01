@@ -15,15 +15,11 @@
 ## 🌟 Featured Projects
 
 ### 🤖 AI APIs
-[![VoCAPI](https://img.shields.io/badge/VoCAPI-Voice%20of%20Customer%20Analytics-blue?style=for-the-badge&logo=python)](https://github.com/andrecodea/voc-api)
-
-**VoCAPI** - An agentic voice of customer analytics API with RAG chatbot capabilities, embeddings, and data visualization
-- 🏷️ `Python` `LLMOps` `RAG` `Embeddings` `Data Visualization`
-
 [![Nexus Financial Analyst](https://img.shields.io/badge/Nexus-Financial%20Analyst-green?style=for-the-badge&logo=python)](https://github.com/andrecodea/nexus-financial-analyst)
 
 **Nexus Financial Analyst** - AI-powered financial analysis system
-- 🏷️ `Python` `AI` `Financial Analysis`
+- 🏷️ `Python` `FastAPI` `LangChain` `GenUI` `GenAI` `Financial Analysis` 
+
 
 ### 📊 Machine Learning & Data Science
 [![Breast Cancer Model](https://img.shields.io/badge/ML-Breast%20Cancer%20Classification-red?style=for-the-badge&logo=jupyter)](https://github.com/andrecodea/breast_cancer_predmodel)
