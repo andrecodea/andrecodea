@@ -58,33 +58,12 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%235C7DA2.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 
 ## 📊 GitHub Analytics
+![](https://github-readme-stats.vercel.app/api?username=andrecodea&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=andrecodea&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrecodea&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-<!-- Streak Stats - Full Width no topo -->
-<div style="width: 100%; margin-bottom: 30px;">
-  <img src="https://streak-stats.demolab.com/?user=andrecodea&theme=tokyonight&hide_border=true" 
-       alt="GitHub Streak" 
-       style="width: 100%; max-width: 1200px; height: auto;" />
-</div>
-
-<!-- Stats e Languages - Side by Side -->
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; width: 100%; margin-bottom: 30px;">
-  
-  <!-- GitHub Stats -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=andrecodea&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" 
-         alt="André's GitHub Stats" 
-         style="width: 100%; height: auto;" />
-  </div>
-  
-  <!-- Top Languages -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecodea&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
-         alt="Top Languages" 
-         style="width: 100%; height: auto;" />
-  </div>
-
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=andrecodea&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Activity Graph - Full Width -->
 <div style="width: 100%; margin-bottom: 30px;">
@@ -92,21 +71,6 @@
        alt="Activity Graph" 
        style="width: 100%; max-width: 1400px; height: auto;" />
 </div>
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andrecodea&theme=tokyonight&no-frame=true&row=2&column=4" 
-       alt="GitHub Trophies" 
-       style="width: 100%; max-width: 1200px; height: auto;" />
-</div>
-
-
-
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=andrecodea&style=for-the-badge&color=blue" alt="Profile views" />
