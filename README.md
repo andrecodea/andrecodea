@@ -1,83 +1,111 @@
-<h1 align="left">Hi, I'm André! 👋</h1>
+<div align="center">
+  <h1 align="center">Hi, I'm André Codea 👋</h1>
+  <h3>AI Engineer | LLMOps Specialist | Cognitive Architect</h3>
+  
+  <p align="center">
+    Building the bridge between <strong>Deterministic Engineering</strong> and <strong>Probabilistic AI</strong>.
+  </p>
 
-[🇧🇷 Versão em Português](README-pt.md)
+  <div>
+    <a href="https://www.linkedin.com/in/andrecodea/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:codeajr@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.datacamp.com/portfolio/andrecodea" target="_blank">
+      <img src="https://img.shields.io/badge/DataCamp-Portfolio-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="DataCamp" />
+    </a>
+  </div>
+</div>
 
-<p align="left">
-  Computer Science student and <strong>AI Engineer</strong> specialized in LLMOps and Automations. 
-  Passionate about building autonomous agents and data-driven solutions.
-</p>
+<br/>
 
-<p align="left">
-  Currently, I am working as an <strong>AI Implementation Lead</strong>, architecting cognitive systems. My next learning steps include mastering <strong>Apache Airflow</strong> and <strong>Snowflake</strong> for Data Engineering, and deepening my backend skills with <strong>Golang</strong>.
-</p>
+## ⚡ About Me
 
-## 🚀 What I'm Working On:
-- 🔭 Architecting **Cognitive Operating Systems** (LLMOps)
-- 🤖 Creating **AI agents** with Python, LangChain, and n8n
-- 🌱 Learning **Golang** for high-performance backend development
-- 👯 Looking to collaborate on **Open Source AI projects**
-- 💬 Ask me about **LLMs, Python, and AI Agents**
-- ⚡ Fun fact: I love solving algorithmic challenges!
+I am an **JR AI Enginner** and **Computer Science** student focused on architecting autonomous intelligent systems. My expertise lies in **LLMOps** and **Prompt Engineering**. What moves me is the impact that my solutions could generate or potentialize. In my free time, I like to play videogames, study, code, lift weights and cook! 
 
-## 🌟 Featured Projects
-
-### 🧠 AI Architecture & LLMOps
-[![MIRA CognitiveOS](https://img.shields.io/badge/MIRA-CognitiveOS-purple?style=for-the-badge&logo=openai)](LINK_DO_SEU_REPO_AQUI)
-
-**MIRA CognitiveOS** - A cognitive operating system architecture designed for autonomous interactions and complex task orchestration.
-- 🏷️ `LLMOps` `System Architecture` `n8n` `AI Agents`
-
-### 🤖 AI Agents & APIs
-[![Nexus Financial Analyst](https://img.shields.io/badge/Nexus-Financial%20Analyst-green?style=for-the-badge&logo=python)](https://github.com/andrecodea/nexus-financial-analyst)
-
-**Nexus Financial Analyst** - AI-powered financial analysis system utilizing GenUI concepts.
-- 🏷️ `Python` `FastAPI` `LangChain` `GenAI` `Financial Analysis`
-
-### 📊 Machine Learning & Data Science
-[![Breast Cancer Model](https://img.shields.io/badge/ML-Breast%20Cancer%20Classification-red?style=for-the-badge&logo=jupyter)](https://github.com/andrecodea/breast_cancer_predmodel)
-
-**Breast Cancer Classification** - ML model for medical diagnosis with comprehensive data analysis.
-- 🏷️ `Machine Learning` `Data Science` `Python` `Healthcare`
-
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230570a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andrecodea/) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23f27b21?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/25626566/andr%c3%a9-codea) [![Dev.to](https://img.shields.io/badge/Dev.to-%23141516?style=for-the-badge&logo=dev.to)](https://dev.to/andrecodea)
-
-## 🏅 Coding Platforms:
-[![Leetcode](https://img.shields.io/badge/Leetcode-%23141516?style=for-the-badge&logo=Leetcode)](https://leetcode.com/u/andrecodea/) [![Hackerrank](https://img.shields.io/badge/Hacker%20Rank-%230b1018?style=for-the-badge&logo=Hackerrank&logoColor=white)](https://www.hackerrank.com/profile/andrecodea) [![Codeforces](https://img.shields.io/badge/Codeforces-%23141516?style=for-the-badge&logo=Codeforces)](https://codeforces.com/profile/andrecodea) [![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-%230f172a?style=for-the-badge&logo=roadmap.sh)](https://roadmap.sh/u/andrecodea) [![DataCamp](https://img.shields.io/badge/DataCamp-%230f172a?style=for-the-badge&logo=datacamp)](https://www.datacamp.com/portfolio/andrecodea)
-
-## 🎨 Development Platforms:
-[![Codepen](https://img.shields.io/badge/Codepen-%23141516?style=for-the-badge&logo=Codepen)](https://codepen.io/andrecodea) [![Codesandbox](https://img.shields.io/badge/Code%20Sandbox-%23141516?style=for-the-badge&logo=Codesandbox)](https://codesandbox.io/u/andrecodea)
-
-## 💻 Tech Stack:
-
-### Languages & Markup:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### AI and Automations
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### Tools & DevOps:
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### Data Science & ML:
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-
-### Visualization:
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%235C7DA2.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-
-## 📊 GitHub Analytics
-![](https://github-readme-stats.vercel.app/api?username=andrecodea&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=andrecodea&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrecodea&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Currently, I'm focused on engineering **Machine Learning Systems**, **Cognitive Systems** and preparing for the **Microsoft Azure AI Fundamentals (AI-900)** certification (wish me luck!).
 
 ---
 
-<div style="width: 100%; margin-bottom: 30px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrecodea&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" 
-       alt="Activity Graph" 
-       style="width: 100%; max-width: 1400px; height: auto;" />
-</div>
+## 🛠️ The Tech Stack
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=andrecodea&style=for-the-badge&color=blue" alt="Profile views" />
-</div>
+### 🧠 AI & Orchestration
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 💻 Engineering & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ☁️ DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Coolify](https://img.shields.io/badge/Coolify-6B21A8?style=for-the-badge&logo=serverless&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5600?style=for-the-badge&logo=xgboost&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+## 🌟 Featured Projects & Architectures
+
+### 🚧 [In Development] Intelligent Hospital Triage System ([Repo](https://github.com/andrecodea/hybrid-medical-triage-api))
+> *Hybrid Clinical Decision Support System (CDSS) combining Deterministic ML and Probabilistic AI.*
+- **Current Focus:** Developing an inference engine to classify pathologies and map severity (Manchester Protocol simulation).
+- **Architecture:** Hybrid approach using **XGBoost** for risk scoring and **LangChain RAG** for grounding explanations in medical protocols.
+- **Goal:** To create a fail-safe triage API that eliminates hallucinations in high-stakes environments.
+- 🏷️ `Python` `XGBoost` `Medical AI` `FastAPI`
+
+### 🛒 Retail Demand Forecasting & Analytics ([Repo](https://github.com/andrecodea/retail-demand-forecasting-and-analytics))
+> *End-to-end sales analytics platform with Predictive Modeling.*
+- **Analytics Dashboard:** Built a comprehensive command center tracking Revenue, Profit, and Product Performance using **Streamlit** & **Plotly**.
+- **Customer Segmentation:** Applied Unsupervised Learning (**K-Means**) to cluster customers based on LTV (Lifetime Value), purchase volume, and feedback ratings.
+- **Revenue Forecasting:** Implemented **Linear Regression** models to project future revenue with confidence intervals, aiding inventory planning.
+- 🏷️ `Scikit-learn` `Pandas` `Streamlit` `Plotly`
+
+### 🤖 Multi-agent Productivity System with MCP ([Repo](https://github.com/andrecodea/multi-agent-productivity-system-with-mcp))
+> *A self-hosted cognitive executive assistant utilizing the Atkinson-Shiffrin memory model.*
+- **Core:** n8n (Self-hosted), Model Context Protocol (MCP).
+- **Memory:** Three-tiered architecture (Sensory Buffer, Short-term PG, Long-term Vector Store).
+- **Highlights:** Implemented a "Hippocampal Filter" for daily knowledge consolidation.
+- 🏷️ `n8n` `MCP` `RAG` `PostgreSQL`
+
+### 📈 Financial Research GenUI Agent ([Repo](https://github.com/andrecodea/financial-research-agentic-api))
+> *Streaming-first agentic API transforming data into interactive React components.*
+- **Innovation:** Optimized token usage by 95% via payload transformation (JSON to CSV) and granular caching.
+- **UX:** Delivers real-time dashboards via **Generative UI (Thesys SDK)** instead of static text.
+- 🏷️ `FastAPI` `LangChain` `GenUI` `React`
+
+### 🏗️ Private AI Cloud Infrastructure
+> *Sovereign infrastructure for running AI agents with zero vendor lock-in.*
+- **Stack:** Hostinger VPS (KVM) + Coolify PaaS.
+- **Impact:** 30% cost reduction compared to SaaS equivalents (Zapier/Vector Clouds).
+- **Security:** Private Docker networks for Vector DBs and n8n execution.
+- 🏷️ `DevOps` `Self-Hosted` `Coolify` `Docker`
+
+---
+
+## 📊 GitHub Analytics
+
+<a href="https://stats.hyo.dev/stats/andrecodea"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=andrecodea" width="600" /></a>
+
+<a href="https://stats.hyo.dev/stats/andrecodea"><img src="https://stats.hyo.dev/api/github-trophies?login=andrecodea" width="600" /></a>
+
+![andrecodea GitHub stats](https://server.dooboo.io/github-stats/andrecodea)
+---
+
+<p align="center">
+  Let's build the future of autonomous systems. 🚀
+</p>
