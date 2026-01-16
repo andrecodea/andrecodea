@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi, I'm André Codea 👋</h1>
-  <h3>AI Engineer | LLMOps Specialist | Cognitive Architect</h3>
+  <h3>Jr. AI/ML Engineer | LLMOps Analyst | Cognitive Architect</h3>
   
   <p align="center">
     Building the bridge between <strong>Deterministic Engineering</strong> and <strong>Probabilistic AI</strong>.
@@ -23,9 +23,9 @@
 
 ## ⚡ About Me
 
-I am an **JR AI Enginner** and **Computer Science** student focused on architecting autonomous intelligent systems. My expertise lies in **LLMOps** and **Prompt Engineering**. What moves me is the impact that my solutions could generate or potentialize. In my free time, I like to play videogames, study, code, lift weights and cook! 
+I am a **Jr. AI Engineer** and **Computer Science** student focused on architecting autonomous intelligent systems. My expertise lies in **LLMOps** and **Prompt Engineering**. I am driven by the tangible impact that my solutions generate and potentialize. In my free time, I like to play videogames, study, code, lift weights, and cook! 
 
-Currently, I'm focused on engineering **Machine Learning Systems**, **Cognitive Systems** and preparing for the **Microsoft Azure AI Fundamentals (AI-900)** certification (wish me luck!).
+Currently, I'm focused on engineering **Machine Learning Systems**, **Cognitive Systems**, and preparing for the **Microsoft Azure AI Fundamentals (AI-900)** certification (wish me luck!).
 
 ---
 
@@ -99,11 +99,13 @@ Currently, I'm focused on engineering **Machine Learning Systems**, **Cognitive 
 
 ## 📊 GitHub Analytics
 
-<a href="https://stats.hyo.dev/stats/andrecodea"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=andrecodea" width="600" /></a>
+<div align="center">
+  <a href="https://stats.hyo.dev/stats/andrecodea"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=andrecodea" width="600" /></a>
+  <br/>
+  <br/>
+  <a href="https://stats.hyo.dev/stats/andrecodea"><img src="https://stats.hyo.dev/api/github-trophies?login=andrecodea" width="600" /></a>
+</div>
 
-<a href="https://stats.hyo.dev/stats/andrecodea"><img src="https://stats.hyo.dev/api/github-trophies?login=andrecodea" width="600" /></a>
-
-![andrecodea GitHub stats](https://server.dooboo.io/github-stats/andrecodea)
 ---
 
 <p align="center">
