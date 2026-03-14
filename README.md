@@ -66,37 +66,7 @@ Currently, I'm focused on engineering **Machine Learning Systems**, **Cognitive 
 
 ---
 
-## 🌟 Featured Projects & Architectures
 
-### 🔍 Deep Research System with RAG via HITL ([Repo](https://github.com/andrecodea/agentic-deep-research))
-> *Multi-agent research pipeline with semantic memory and knowledge curation via HITL.*
-- **Architecture:** Orchestrated an advanced `StateGraph` using **LangGraph** featuring four specialized agents (Orchestrator, Router, Researcher, Writer).
-- **Control:** Implemented **Human-in-the-Loop (HITL)** breakpoints for knowledge base curation in **ChromaDB**, ensuring zero hallucinations before web searches via **Tavily API**.
-- **Observability:** Full-node tracing and **PromptOps** via **LangSmith**, exposing reasoning traces through a mandatory `<thought>` protocol before any tool call.
-- 🏷️ `LangGraph` `LangSmith` `HITL` `ChromaDB` `PromptOps`
-
-### 📈 Financial Research Agentic API ([Repo](https://github.com/andrecodea/financial-research-agentic-api))
-> *Real-time market analysis API with Generative UI and aggressive payload compression.*
-- **Optimization:** Slashed token consumption by **60%** (from ~100k to ~40k) via a payload compression pipeline (JSON → CSV + pruning).
-- **Telemetry:** Actively monitored Time To First Token (TTFT) and latency via **LangSmith**.
-- **UX Innovation:** Delivered real-time financial dashboards via **Generative UI (Thesys SDK)**, orchestrating LangChain and Yahoo Finance with Chain-of-Thought reasoning.
-- 🏷️ `FastAPI` `LangChain` `GenUI` `LangSmith`
-
-### 🤖 Multi-Agent Productivity System (MCP & RAG) ([Repo](https://github.com/andrecodea/multi-agent-productivity-system-with-mcp))
-> *Cognitive Operating System for personal productivity via Telegram, governed by strict guardrails.*
-- **Memory:** Three-tiered architecture inspired by the Atkinson-Shiffrin model (Sensory buffer in PostgreSQL, Short-term window, Daily consolidation via RAG in Supabase/pgvector) using **Llama 3.3 70B**.
-- **Security:** Deployed guardrails using **Llama 3.1 70B** (0.7 threshold) for NSFW and jailbreak detection.
-- **Orchestration:** Integrated specialized sub-agents (Calendar, Gmail, Tasks) via **Model Context Protocol (MCP)** with mandatory Chain-of-Thought reasoning.
-- 🏷️ `n8n` `MCP` `Supabase/pgvector` `Llama 3.1`
-
-### 🛒 Retail Demand Forecasting & Sales Analytics ([Repo](https://github.com/andrecodea/retail-demand-forecasting-and-analytics))
-> *Dashboard for Sales Intelligence, Customer Clustering, and AI-driven narrative reporting.*
-- **Machine Learning:** Built a customer segmentation pipeline via **K-Means** and a weekly revenue forecasting model using **Prophet** with 95% confidence intervals.
-- **Observability:** Tracked LLM latency in real-time via token-by-token streaming (TTFT P50: ~800ms).
-- **Reporting:** Generated narrative PDF reports combining ML trends with LLM analysis via ReportLab.
-- 🏷️ `Python` `Scikit-learn` `Prophet` `Streamlit`
-
----
 
 ## 📊 GitHub Analytics
 
