@@ -31,6 +31,8 @@ Outside of engineering: videogames, cooking, and the gym.
 ### AI Engineering & Agents
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF4F00?style=for-the-badge&logo=graphql&logoColor=white)
+![Agno](https://img.shields.io/badge/Agno-6366F1?style=for-the-badge&logo=lightning&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
